@@ -101,9 +101,6 @@ public class Main {
             }
         }
         while (deposit2 < 12_000_000);
-//       System.out.print("Месяц " + monthNumber + ", сумма накоплений равна: ");
-//       System.out.printf("%.2f", deposit2);
-//       System.out.println();
         System.out.println();
         System.out.println();
 
